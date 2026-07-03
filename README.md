@@ -1,10 +1,10 @@
-# 🍣 SUSHI Tool — Super User Sales Highly Informed
+# SUSHI Tool — Super User Sales Highly Informed
 
 > *An IAM-driven AI solution that enforces least privilege access to SAP order data while eliminating 100+ hours of manual work per week across EMEA sales operations.*
 
 ---
 
-## 🔐 The Problem — An IAM Governance Challenge
+## The Problem — An IAM Governance Challenge
 
 At TD SYNNEX, the Sales Director requested access to **VA02 (SAP Order Change)** for the entire EMEA sales team across 12+ countries.
 
@@ -44,7 +44,7 @@ The sales team never touches SAP directly. They interact with a conversational A
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Sales Rep (Natural Language Query)
@@ -70,7 +70,7 @@ Sales Rep (Natural Language Query)
 
 ---
 
-## 🔒 IAM Principles Applied
+##  IAM Principles Applied
 
 | Principle | Implementation |
 |-----------|---------------|
@@ -95,7 +95,7 @@ Sales Rep (Natural Language Query)
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 - Packaged as a **standalone Windows .exe**
 - Distributed through the internal company software catalogue
@@ -105,7 +105,7 @@ Sales Rep (Natural Language Query)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ```
 Language:        Python
@@ -118,7 +118,7 @@ Logging:         Structured audit trail with full query history
 
 ---
 
-## 📋 AS IS / TO BE
+##  AS IS / TO BE
 
 ### AS IS — Before SUSHI Tool
 ```
@@ -156,7 +156,7 @@ Zero SoD violations. Zero PII exposure.
 
 ---
 
-## 💬 Why This Matters
+##  Why This Matters
 
 > *"The sales director wanted his team in SAP. The right answer wasn't to give them SAP access — it was to give them the data they needed without the risk. SUSHI Tool is what IAM looks like when you solve the problem at the architecture level instead of the access control level."*
 
